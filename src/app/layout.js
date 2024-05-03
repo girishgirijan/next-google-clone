@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Google Clone",
-  description: "An open source Google clone",
+  description: "An open source Google clone ",
 };
 
 export default function RootLayout({ children }) {
